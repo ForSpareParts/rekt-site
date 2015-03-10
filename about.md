@@ -1,11 +1,17 @@
 ---
 layout: page
-title: About
+title: About the Game
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Like most MOBAs, REKT is a game about degrading your fellow man through constant
+verbal abuse.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Unlike most MOBAs, REKT actively rewards you for this behavior: the volume at
+which you scream into your microphone increases your in-game power, boosting your
+chances of winning and providing much-needed personal validation. Look at that
+bar fill up every time you scream! Doesn't that feel good? Don't worry, your
+teammates probably deserved it.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Rekt is designed by [Nathan Chamot](http://nate.chamotlabs.com) and programmed
+by [David Jackson](http://forspareparts.github.io). They're very sorry.
