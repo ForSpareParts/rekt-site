@@ -2,7 +2,7 @@
 
 name: REKT
 description: > # this means to ignore newlines until "baseurl:"
-  A MOBA where yelling actually does something. Finally.
+  A MOBA where raging actually does something. Finally.
 
 # url is currently only used only for the RSS feed in feed.xml
 url: http://gotrekt.com
